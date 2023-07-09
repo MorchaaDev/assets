@@ -1,0 +1,1232 @@
+[
+  {
+    "flag": "AF",
+    "img": "https://flagpedia.net/data/flags/w702/af.png",
+    "name": "Afganistan"
+  },
+  {
+    "flag": "ZA",
+    "img": "https://flagpedia.net/data/flags/w702/za.png",
+    "name": "Afrika Selatan"
+  },
+  {
+    "flag": "CF",
+    "img": "https://flagpedia.net/data/flags/w702/cf.png",
+    "name": "Afrika Tengah"
+  },
+  {
+    "flag": "AX",
+    "img": "https://flagpedia.net/data/flags/w702/ax.png",
+    "name": "Aland"
+  },
+  {
+    "flag": "AL",
+    "img": "https://flagpedia.net/data/flags/w702/al.png",
+    "name": "Albania"
+  },
+  {
+    "flag": "DZ",
+    "img": "https://flagpedia.net/data/flags/w702/dz.png",
+    "name": "Aljazair"
+  },
+  {
+    "flag": "US",
+    "img": "https://flagpedia.net/data/flags/w702/us.png",
+    "name": "Amerika Serikat"
+  },
+  {
+    "flag": "AD",
+    "img": "https://flagpedia.net/data/flags/w702/ad.png",
+    "name": "Andorra"
+  },
+  {
+    "flag": "AO",
+    "img": "https://flagpedia.net/data/flags/w702/ao.png",
+    "name": "Angola"
+  },
+  {
+    "flag": "AI",
+    "img": "https://flagpedia.net/data/flags/w702/ai.png",
+    "name": "Anguilla"
+  },
+  {
+    "flag": "AQ",
+    "img": "https://flagpedia.net/data/flags/w702/aq.png",
+    "name": "Antarktika"
+  },
+  {
+    "flag": "AG",
+    "img": "https://flagpedia.net/data/flags/w702/ag.png",
+    "name": "Antigua dan Barbuda"
+  },
+  {
+    "flag": "AN",
+    "img": "https://flagpedia.net/data/flags/w702/an.png",
+    "name": "Antillen Belanda"
+  },
+  {
+    "flag": "SA",
+    "img": "https://flagpedia.net/data/flags/w702/sa.png",
+    "name": "Arab Saudi"
+  },
+  {
+    "flag": "AR",
+    "img": "https://flagpedia.net/data/flags/w702/ar.png",
+    "name": "Argentina"
+  },
+  {
+    "flag": "AM",
+    "img": "https://flagpedia.net/data/flags/w702/am.png",
+    "name": "Armenia"
+  },
+  {
+    "flag": "AW",
+    "img": "https://flagpedia.net/data/flags/w702/aw.png",
+    "name": "Aruba"
+  },
+  {
+    "flag": "AU",
+    "img": "https://flagpedia.net/data/flags/w702/au.png",
+    "name": "Australia"
+  },
+  {
+    "flag": "AT",
+    "img": "https://flagpedia.net/data/flags/w702/at.png",
+    "name": "Austria"
+  },
+  {
+    "flag": "AZ",
+    "img": "https://flagpedia.net/data/flags/w702/az.png",
+    "name": "Azerbaijan"
+  },
+  {
+    "flag": "BS",
+    "img": "https://flagpedia.net/data/flags/w702/bs.png",
+    "name": "Bahama"
+  },
+  {
+    "flag": "BH",
+    "img": "https://flagpedia.net/data/flags/w702/bh.png",
+    "name": "Bahrain"
+  },
+  {
+    "flag": "BD",
+    "img": "https://flagpedia.net/data/flags/w702/bd.png",
+    "name": "Bangladesh"
+  },
+  {
+    "flag": "BB",
+    "img": "https://flagpedia.net/data/flags/w702/bb.png",
+    "name": "Barbados"
+  },
+  {
+    "flag": "NL",
+    "img": "https://flagpedia.net/data/flags/w702/nl.png",
+    "name": "Belanda"
+  },
+  {
+    "flag": "BY",
+    "img": "https://flagpedia.net/data/flags/w702/by.png",
+    "name": "Belarus"
+  },
+  {
+    "flag": "BE",
+    "img": "https://flagpedia.net/data/flags/w702/be.png",
+    "name": "Belgia"
+  },
+  {
+    "flag": "BZ",
+    "img": "https://flagpedia.net/data/flags/w702/bz.png",
+    "name": "Belize"
+  },
+  {
+    "flag": "BJ",
+    "img": "https://flagpedia.net/data/flags/w702/bj.png",
+    "name": "Benin"
+  },
+  {
+    "flag": "BM",
+    "img": "https://flagpedia.net/data/flags/w702/bm.png",
+    "name": "Bermuda"
+  },
+  {
+    "flag": "BT",
+    "img": "https://flagpedia.net/data/flags/w702/bt.png",
+    "name": "Bhutan"
+  },
+  {
+    "flag": "BO",
+    "img": "https://flagpedia.net/data/flags/w702/bo.png",
+    "name": "Bolivia"
+  },
+  {
+    "flag": "BA",
+    "img": "https://flagpedia.net/data/flags/w702/ba.png",
+    "name": "Bosnia dan Herzegovina"
+  },
+  {
+    "flag": "BW",
+    "img": "https://flagpedia.net/data/flags/w702/bw.png",
+    "name": "Botswana"
+  },
+  {
+    "flag": "BV",
+    "img": "https://flagpedia.net/data/flags/w702/bv.png",
+    "name": "Bouvet"
+  },
+  {
+    "flag": "BR",
+    "img": "https://flagpedia.net/data/flags/w702/br.png",
+    "name": "Brasil"
+  },
+  {
+    "flag": "GB",
+    "img": "https://flagpedia.net/data/flags/w702/gb.png",
+    "name": "Britania Raya"
+  },
+  {
+    "flag": "BN",
+    "img": "https://flagpedia.net/data/flags/w702/bn.png",
+    "name": "Brunei"
+  },
+  {
+    "flag": "BG",
+    "img": "https://flagpedia.net/data/flags/w702/bg.png",
+    "name": "Bulgaria"
+  },
+  {
+    "flag": "BF",
+    "img": "https://flagpedia.net/data/flags/w702/bf.png",
+    "name": "Burkina Faso"
+  },
+  {
+    "flag": "BI",
+    "img": "https://flagpedia.net/data/flags/w702/bi.png",
+    "name": "Burundi"
+  },
+  {
+    "flag": "KY",
+    "img": "https://flagpedia.net/data/flags/w702/ky.png",
+    "name": "Cayman"
+  },
+  {
+    "flag": "TD",
+    "img": "https://flagpedia.net/data/flags/w702/td.png",
+    "name": "Chad"
+  },
+  {
+    "flag": "CZ",
+    "img": "https://flagpedia.net/data/flags/w702/cz.png",
+    "name": "Ceko"
+  },
+  {
+    "flag": "CL",
+    "img": "https://flagpedia.net/data/flags/w702/cl.png",
+    "name": "Chili"
+  },
+  {
+    "flag": "CC",
+    "img": "https://flagpedia.net/data/flags/w702/cc.png",
+    "name": "Cocos"
+  },
+  {
+    "flag": "CK",
+    "img": "https://flagpedia.net/data/flags/w702/ck.png",
+    "name": "Cook"
+  },
+  {
+    "flag": "DK",
+    "img": "https://flagpedia.net/data/flags/w702/dk.png",
+    "name": "Denmark"
+  },
+  {
+    "flag": "DJ",
+    "img": "https://flagpedia.net/data/flags/w702/dj.png",
+    "name": "Djibouti"
+  },
+  {
+    "flag": "DM",
+    "img": "https://flagpedia.net/data/flags/w702/dm.png",
+    "name": "Dominika"
+  },
+  {
+    "flag": "DO",
+    "img": "https://flagpedia.net/data/flags/w702/do.png",
+    "name": "Dominika"
+  },
+  {
+    "flag": "EC",
+    "img": "https://flagpedia.net/data/flags/w702/ec.png",
+    "name": "Ekuador"
+  },
+  {
+    "flag": "SV",
+    "img": "https://flagpedia.net/data/flags/w702/sv.png",
+    "name": "El Salvador"
+  },
+  {
+    "flag": "ER",
+    "img": "https://flagpedia.net/data/flags/w702/er.png",
+    "name": "Eritrea"
+  },
+  {
+    "flag": "EE",
+    "img": "https://flagpedia.net/data/flags/w702/ee.png",
+    "name": "Estonia"
+  },
+  {
+    "flag": "SZ",
+    "img": "https://flagpedia.net/data/flags/w702/sz.png",
+    "name": "Eswatini"
+  },
+  {
+    "flag": "ET",
+    "img": "https://flagpedia.net/data/flags/w702/et.png",
+    "name": "Ethiopia"
+  },
+  {
+    "flag": "FK",
+    "img": "https://flagpedia.net/data/flags/w702/fk.png",
+    "name": "Falkland"
+  },
+  {
+    "flag": "FO",
+    "img": "https://flagpedia.net/data/flags/w702/fo.png",
+    "name": "Faroe"
+  },
+  {
+    "flag": "FJ",
+    "img": "https://flagpedia.net/data/flags/w702/fj.png",
+    "name": "Fiji"
+  },
+  {
+    "flag": "PH",
+    "img": "https://flagpedia.net/data/flags/w702/ph.png",
+    "name": "Filipina"
+  },
+  {
+    "flag": "FI",
+    "img": "https://flagpedia.net/data/flags/w702/fi.png",
+    "name": "Finlandia"
+  },
+  {
+    "flag": "GA",
+    "img": "https://flagpedia.net/data/flags/w702/ga.png",
+    "name": "Gabon"
+  },
+  {
+    "flag": "GM",
+    "img": "https://flagpedia.net/data/flags/w702/gm.png",
+    "name": "Gambia"
+  },
+  {
+    "flag": "GE",
+    "img": "https://flagpedia.net/data/flags/w702/ge.png",
+    "name": "Georgia"
+  },
+  {
+    "flag": "GS",
+    "img": "https://flagpedia.net/data/flags/w702gs.png",
+    "name": "Georgia Selatan dan Kepulauan Sandwich Selatan"
+  },
+  {
+    "flag": "GH",
+    "img": "https://flagpedia.net/data/flags/w702/gh.png",
+    "name": "Ghana"
+  },
+  {
+    "flag": "GI",
+    "img": "https://flagpedia.net/data/flags/w702/gi.png",
+    "name": "Gibraltar"
+  },
+  {
+    "flag": "GL",
+    "img": "https://flagpedia.net/data/flags/w702/gl.png",
+    "name": "Greenland"
+  },
+  {
+    "flag": "GD",
+    "img": "https://flagpedia.net/data/flags/w702/gd.png",
+    "name": "Grenada"
+  },
+  {
+    "flag": "GP",
+    "img": "https://flagpedia.net/data/flags/w702/gp.png",
+    "name": "Guadeloupe"
+  },
+  {
+    "flag": "GU",
+    "img": "https://flagpedia.net/data/flags/w702/gu.png",
+    "name": "Guam"
+  },
+  {
+    "flag": "GT",
+    "img": "https://flagpedia.net/data/flags/w702/gt.png",
+    "name": "Guatemala"
+  },
+  {
+    "flag": "GG",
+    "img": "https://flagpedia.net/data/flags/w702/gg.png",
+    "name": "Guernsey"
+  },
+  {
+    "flag": "GN",
+    "img": "https://flagpedia.net/data/flags/w702/gn.png",
+    "name": "Guinea"
+  },
+  {
+    "flag": "GW",
+    "img": "https://flagpedia.net/data/flags/w702/gw.png",
+    "name": "Guinea-Bissau"
+  },
+  {
+    "flag": "GQ",
+    "img": "https://flagpedia.net/data/flags/w702/gq.png",
+    "name": "Guinea Khatulistiwa"
+  },
+  {
+    "flag": "GY",
+    "img": "https://flagpedia.net/data/flags/w702/gy.png",
+    "name": "Guyana"
+  },
+  {
+    "flag": "GF",
+    "img": "https://flagpedia.net/data/flags/w702/gf.png",
+    "name": "Guyana Prancis"
+  },
+  {
+    "flag": "HT",
+    "img": "https://flagpedia.net/data/flags/w702/ht.png",
+    "name": "Haiti"
+  },
+  {
+    "flag": "HM",
+    "img": "https://flagpedia.net/data/flags/w702/hm.png",
+    "name": "Heard dan Kepulauan McDonald"
+  },
+  {
+    "flag": "HN",
+    "img": "https://flagpedia.net/data/flags/w702/hn.png",
+    "name": "Honduras"
+  },
+  {
+    "flag": "HK",
+    "img": "https://flagpedia.net/data/flags/w702/hk.png",
+    "name": "Hong Kong"
+  },
+  {
+    "flag": "HU",
+    "img": "https://flagpedia.net/data/flags/w702/hu.png",
+    "name": "Hongaria"
+  },
+  {
+    "flag": "IS",
+    "img": "https://flagpedia.net/data/flags/w702/si.png",
+    "name": "Islandia"
+  },
+  {
+    "flag": "IN",
+    "img": "https://flagpedia.net/data/flags/w702/in.png",
+    "name": "India"
+  },
+  {
+    "flag": "ID",
+    "img": "https://flagpedia.net/data/flags/w702/id.png",
+    "name": "Indonesia"
+  },
+  {
+    "flag": "IQ",
+    "img": "https://flagpedia.net/data/flags/w702/iq.png",
+    "name": "Irak"
+  },
+  {
+    "flag": "IR",
+    "img": "https://flagpedia.net/data/flags/w702/ir.png",
+    "name": "Iran"
+  },
+  {
+    "flag": "IE",
+    "img": "https://flagpedia.net/data/flags/w702/ie.png",
+    "name": "Irlandia"
+  },
+  {
+    "flag": "IL",
+    "img": "https://flagpedia.net/data/flags/w702/il.png",
+    "name": "Israel"
+  },
+  {
+    "flag": "IT",
+    "img": "https://flagpedia.net/data/flags/w702/it.png",
+    "name": "Italia"
+  },
+  {
+    "flag": "JM",
+    "img": "https://flagpedia.net/data/flags/w702/jm.png",
+    "name": "Jamaika"
+  },
+  {
+    "flag": "JP",
+    "img": "https://flagpedia.net/data/flags/w702/jp.png",
+    "name": "Jepang"
+  },
+  {
+    "flag": "DE",
+    "img": "https://flagpedia.net/data/flags/w702/de.png",
+    "name": "Jerman"
+  },
+  {
+    "flag": "JE",
+    "img": "https://flagpedia.net/data/flags/w702/je.png",
+    "name": "Jersey"
+  },
+  {
+    "flag": "NC",
+    "img": "https://flagpedia.net/data/flags/w702/nc.png",
+    "name": "Kaledonia Baru"
+  },
+  {
+    "flag": "KH",
+    "img": "https://flagpedia.net/data/flags/w702/kh.png",
+    "name": "Kamboja"
+  },
+  {
+    "flag": "CM",
+    "img": "https://flagpedia.net/data/flags/w702/cm.png",
+    "name": "Kamerun"
+  },
+  {
+    "flag": "CA",
+    "img": "https://flagpedia.net/data/flags/w702/ca.png",
+    "name": "Kanada"
+  },
+  {
+    "flag": "KZ",
+    "img": "https://flagpedia.net/data/flags/w702/kz.png",
+    "name": "Kazakhstan"
+  },
+  {
+    "flag": "KE",
+    "img": "https://flagpedia.net/data/flags/w702/ke.png",
+    "name": "Kenya"
+  },
+  {
+    "flag": "KI",
+    "img": "https://flagpedia.net/data/flags/w702/ki.png",
+    "name": "Kiribati"
+  },
+  {
+    "flag": "KG",
+    "img": "https://flagpedia.net/data/flags/w702/kg.png",
+    "name": "Kirgizstan"
+  },
+  {
+    "flag": "CO",
+    "img": "https://flagpedia.net/data/flags/w702/co.png",
+    "name": "Kolombia"
+  },
+  {
+    "flag": "KM",
+    "img": "https://flagpedia.net/data/flags/w702/km.png",
+    "name": "Komoro"
+  },
+  {
+    "flag": "CG",
+    "img": "https://flagpedia.net/data/flags/w702/cg.png",
+    "name": "Kongo"
+  },
+  {
+    "flag": "CD",
+    "img": "https://flagpedia.net/data/flags/w702/cd.png",
+    "name": "Kongo"
+  },
+  {
+    "flag": "KR",
+    "img": "https://flagpedia.net/data/flags/w702/kr.png",
+    "name": "Korea"
+  },
+  {
+    "flag": "KP",
+    "img": "https://flagpedia.net/data/flags/w702/kp.png",
+    "name": "Korea"
+  },
+  {
+    "flag": "CR",
+    "img": "https://flagpedia.net/data/flags/w702/cr.png",
+    "name": "Kosta Rika"
+  },
+  {
+    "flag": "HR",
+    "img": "https://flagpedia.net/data/flags/w702/hr.png",
+    "name": "Kroasia"
+  },
+  {
+    "flag": "CU",
+    "img": "https://flagpedia.net/data/flags/w702/cu.png",
+    "name": "Kuba"
+  },
+  {
+    "flag": "KW",
+    "img": "https://flagpedia.net/data/flags/w702/kw.png",
+    "name": "Kuwait"
+  },
+  {
+    "flag": "LA",
+    "img": "https://flagpedia.net/data/flags/w702/la.png",
+    "name": "Laos"
+  },
+  {
+    "flag": "LV",
+    "img": "https://flagpedia.net/data/flags/w702/lv.png",
+    "name": "Latvia"
+  },
+  {
+    "flag": "LB",
+    "img": "https://flagpedia.net/data/flags/w702/lb.png",
+    "name": "Lebanon"
+  },
+  {
+    "flag": "LS",
+    "img": "https://flagpedia.net/data/flags/w702/ls.png",
+    "name": "Lesotho"
+  },
+  {
+    "flag": "LR",
+    "img": "https://flagpedia.net/data/flags/w702/lr.png",
+    "name": "Liberia"
+  },
+  {
+    "flag": "LY",
+    "img": "https://flagpedia.net/data/flags/w702/ly.png",
+    "name": "Libya"
+  },
+  {
+    "flag": "LI",
+    "img": "https://flagpedia.net/data/flags/w702/li.png",
+    "name": "Liechtenstein"
+  },
+  {
+    "flag": "LT",
+    "img": "https://flagpedia.net/data/flags/w702/lt.png",
+    "name": "Lituania"
+  },
+  {
+    "flag": "LU",
+    "img": "https://flagpedia.net/data/flags/w702/lu.png",
+    "name": "Luksemburg"
+  },
+  {
+    "flag": "MO",
+    "img": "https://flagpedia.net/data/flags/w702/mo.png",
+    "name": "Makau"
+  },
+  {
+    "flag": "MK",
+    "img": "https://flagpedia.net/data/flags/w702/mk.png",
+    "name": "Makedonia"
+  },
+  {
+    "flag": "MG",
+    "img": "https://flagpedia.net/data/flags/w702/mg.png",
+    "name": "Madagaskar"
+  },
+  {
+    "flag": "MW",
+    "img": "https://flagpedia.net/data/flags/w702/mw.png",
+    "name": "Malawi"
+  },
+  {
+    "flag": "MY",
+    "img": "https://flagpedia.net/data/flags/w702/my.png",
+    "name": "Malaysia"
+  },
+  {
+    "flag": "MV",
+    "img": "https://flagpedia.net/data/flags/w702/mv.png",
+    "name": "Maladewa"
+  },
+  {
+    "flag": "ML",
+    "img": "https://flagpedia.net/data/flags/w702/ml.png",
+    "name": "Mali"
+  },
+  {
+    "flag": "MT",
+    "img": "https://flagpedia.net/data/flags/w702/mt.png",
+    "name": "Malta"
+  },
+  {
+    "flag": "IM",
+    "img": "https://flagpedia.net/data/flags/w702/im.png",
+    "name": "Man"
+  },
+  {
+    "flag": "MP",
+    "img": "https://flagpedia.net/data/flags/w702/mp.png",
+    "name": "Mariana Utara"
+  },
+  {
+    "flag": "MA",
+    "img": "https://flagpedia.net/data/flags/w702/ma.png",
+    "name": "Maroko"
+  },
+  {
+    "flag": "MH",
+    "img": "https://flagpedia.net/data/flags/w702/mh.png",
+    "name": "Marshall"
+  },
+  {
+    "flag": "MQ",
+    "img": "https://flagpedia.net/data/flags/w702/mq.png",
+    "name": "Martinik"
+  },
+  {
+    "flag": "MR",
+    "img": "https://flagpedia.net/data/flags/w702/mr.png",
+    "name": "Mauritania"
+  },
+  {
+    "flag": "MU",
+    "img": "https://flagpedia.net/data/flags/w702/mu.png",
+    "name": "Mauritius"
+  },
+  {
+    "flag": "YT",
+    "img": "https://flagpedia.net/data/flags/w702/yt.png",
+    "name": "Mayotte"
+  },
+  {
+    "flag": "MX",
+    "img": "https://flagpedia.net/data/flags/w702/mx.png",
+    "name": "Meksiko"
+  },
+  {
+    "flag": "FM",
+    "img": "https://flagpedia.net/data/flags/w702/fm.png",
+    "name": "Mikronesia"
+  },
+  {
+    "flag": "MD",
+    "img": "https://flagpedia.net/data/flags/w702/md.png",
+    "name": "Moldova"
+  },
+  {
+    "flag": "EG",
+    "img": "https://flagpedia.net/data/flags/w702/eg.png",
+    "name": "Mesir"
+  },
+  {
+    "flag": "MC",
+    "img": "https://flagpedia.net/data/flags/w702/mc.png",
+    "name": "Monako"
+  },
+  {
+    "flag": "UM",
+    "img": "https://flagpedia.net/data/flags/w702/um.png",
+    "name": "Kepulauan Terluar Kecil Amerika Serikat"
+  },
+  {
+    "flag": "MN",
+    "img": "https://flagpedia.net/data/flags/w702/mn.png",
+    "name": "Mongolia"
+  },
+  {
+    "flag": "ME",
+    "img": "https://flagpedia.net/data/flags/w702/me.png",
+    "name": "Montenegro"
+  },
+  {
+    "flag": "MS",
+    "img": "https://flagpedia.net/data/flags/w702/ms.png",
+    "name": "Montserrat"
+  },
+  {
+    "flag": "MZ",
+    "img": "https://flagpedia.net/data/flags/w702/mz.png",
+    "name": "Mozambik"
+  },
+  {
+    "flag": "MM",
+    "img": "https://flagpedia.net/data/flags/w702/mm.png",
+    "name": "Myanmar"
+  },
+  {
+    "flag": "NA",
+    "img": "https://flagpedia.net/data/flags/w702/na.png",
+    "name": "Namibia"
+  },
+  {
+    "flag": "NR",
+    "img": "https://flagpedia.net/data/flags/w702/nr.png",
+    "name": "Nauru"
+  },
+  {
+    "flag": "CX",
+    "img": "https://flagpedia.net/data/flags/w702/cx.png",
+    "name": "Natal"
+  },
+  {
+    "flag": "NP",
+    "img": "https://flagpedia.net/data/flags/w702/np.png",
+    "name": "Nepal"
+  },
+  {
+    "flag": "NI",
+    "img": "https://flagpedia.net/data/flags/w702/ni.png",
+    "name": "Nikaragua"
+  },
+  {
+    "flag": "NE",
+    "img": "https://flagpedia.net/data/flags/w702/ne.png",
+    "name": "Niger"
+  },
+  {
+    "flag": "NG",
+    "img": "https://flagpedia.net/data/flags/w702/ng.png",
+    "name": "Nigeria"
+  },
+  {
+    "flag": "NU",
+    "img": "https://flagpedia.net/data/flags/w702/nu.png",
+    "name": "Niue"
+  },
+  {
+    "flag": "NF",
+    "img": "https://flagpedia.net/data/flags/w702/nf.png",
+    "name": "Norfolk"
+  },
+  {
+    "flag": "NO",
+    "img": "https://flagpedia.net/data/flags/w702/no.png",
+    "name": "Norwegia"
+  },
+  {
+    "flag": "OM",
+    "img": "https://flagpedia.net/data/flags/w702/om.png",
+    "name": "Oman"
+  },
+  {
+    "flag": "PK",
+    "img": "https://flagpedia.net/data/flags/w702/pk.png",
+    "name": "Pakistan"
+  },
+  {
+    "flag": "PW",
+    "img": "https://flagpedia.net/data/flags/w702/pw.png",
+    "name": "Palau"
+  },
+  {
+    "flag": "PS",
+    "img": "https://flagpedia.net/data/flags/w702/ps.png",
+    "name": "Palestina"
+  },
+  {
+    "flag": "PA",
+    "img": "https://flagpedia.net/data/flags/w702/pa.png",
+    "name": "Panama"
+  },
+  {
+    "flag": "CI",
+    "img": "https://flagpedia.net/data/flags/w702/ci.png",
+    "name": "Pantai Gading"
+  },
+  {
+    "flag": "PG",
+    "img": "https://flagpedia.net/data/flags/w702/pg.png",
+    "name": "Papua Nugini"
+  },
+  {
+    "flag": "PY",
+    "img": "https://flagpedia.net/data/flags/w702/py.png",
+    "name": "Paraguay"
+  },
+  {
+    "flag": "FR",
+    "img": "https://flagpedia.net/data/flags/w702/fr.png",
+    "name": "Prancis"
+  },
+  {
+    "flag": "TF",
+    "img": "https://flagpedia.net/data/flags/w702/tf.png",
+    "name": "Prancis Selatan"
+  },
+  {
+    "flag": "PE",
+    "img": "https://flagpedia.net/data/flags/w702/pe.png",
+    "name": "Peru"
+  },
+  {
+    "flag": "PN",
+    "img": "https://flagpedia.net/data/flags/w702/pn.png",
+    "name": "Pitcairn"
+  },
+  {
+    "flag": "PL",
+    "img": "https://flagpedia.net/data/flags/w702/pl.png",
+    "name": "Polandia"
+  },
+  {
+    "flag": "PF",
+    "img": "https://flagpedia.net/data/flags/w702/pf.png",
+    "name": "Polinesia Prancis"
+  },
+  {
+    "flag": "PT",
+    "img": "https://flagpedia.net/data/flags/w702/pt.png",
+    "name": "Portugal"
+  },
+  {
+    "flag": "PR",
+    "img": "https://flagpedia.net/data/flags/w702/pr.png",
+    "name": "Puerto Riko"
+  },
+  {
+    "flag": "QA",
+    "img": "https://flagpedia.net/data/flags/w702/qa.png",
+    "name": "Qatar"
+  },
+  {
+    "flag": "RE",
+    "img": "https://flagpedia.net/data/flags/w702/re.png",
+    "name": "Réunion"
+  },
+  {
+    "flag": "RO",
+    "img": "https://flagpedia.net/data/flags/w702/ro.png",
+    "name": "Rumania"
+  },
+  {
+    "flag": "RU",
+    "img": "https://flagpedia.net/data/flags/w702/ru.png",
+    "name": "Rusia"
+  },
+  {
+    "flag": "RW",
+    "img": "https://flagpedia.net/data/flags/w702/rw.png",
+    "name": "Rwanda"
+  },
+  {
+    "flag": "EH",
+    "img": "https://flagpedia.net/data/flags/w702/eh.png",
+    "name": "Sahara Barat"
+  },
+  {
+    "flag": "BL",
+    "img": "https://flagpedia.net/data/flags/w702/bl.png",
+    "name": "Saint-Barthélemy"
+  },
+  {
+    "flag": "SH",
+    "img": "https://flagpedia.net/data/flags/w702/sh.png",
+    "name": "Saint Helena"
+  },
+  {
+    "flag": "KN",
+    "img": "https://flagpedia.net/data/flags/w702/kn.png",
+    "name": "Saint Kitts dan Nevis"
+  },
+  {
+    "flag": "LC",
+    "img": "https://flagpedia.net/data/flags/w702/lc.png",
+    "name": "Saint Lucia"
+  },
+  {
+    "flag": "MF",
+    "img": "https://flagpedia.net/data/flags/w702/mf.png",
+    "name": "Saint Martin (Prancis)"
+  },
+  {
+    "flag": "PM",
+    "img": "https://flagpedia.net/data/flags/w702/pm.png",
+    "name": "Saint Pierre dan Miquelon"
+  },
+  {
+    "flag": "VC",
+    "img": "https://flagpedia.net/data/flags/w702/vc.png",
+    "name": "Saint Vincent dan Grenadines"
+  },
+  {
+    "flag": "WS",
+    "img": "https://flagpedia.net/data/flags/w702/ws.png",
+    "name": "Samoa"
+  },
+  {
+    "flag": "AS",
+    "img": "https://flagpedia.net/data/flags/w702/as.png",
+    "name": "Samoa Amerika"
+  },
+  {
+    "flag": "IO",
+    "img": "https://flagpedia.net/data/flags/w702/io.png",
+    "name": "Samudra Hindia Britania"
+  },
+  {
+    "flag": "SM",
+    "img": "https://flagpedia.net/data/flags/w702/sm.png",
+    "name": "San Marino"
+  },
+  {
+    "flag": "ST",
+    "img": "https://flagpedia.net/data/flags/w702/st.png",
+    "name": "Sao Tome dan Principe"
+  },
+  {
+    "flag": "NZ",
+    "img": "https://flagpedia.net/data/flags/w702/nz.png",
+    "name": "Selandia Baru"
+  },
+  {
+    "flag": "SN",
+    "img": "https://flagpedia.net/data/flags/w702/sn.png",
+    "name": "Senegal"
+  },
+  {
+    "flag": "RS",
+    "img": "https://flagpedia.net/data/flags/w702/rs.png",
+    "name": "Serbia"
+  },
+  {
+    "flag": "SC",
+    "img": "https://flagpedia.net/data/flags/w702/sc.png",
+    "name": "Seychelles"
+  },
+  {
+    "flag": "SL",
+    "img": "https://flagpedia.net/data/flags/w702/sl.png",
+    "name": "Sierra Leone"
+  },
+  {
+    "flag": "SG",
+    "img": "https://flagpedia.net/data/flags/w702/sg.png",
+    "name": "Singapura"
+  },
+  {
+    "flag": "CY",
+    "img": "https://flagpedia.net/data/flags/w702/cy.png",
+    "name": "Siprus"
+  },
+  {
+    "flag": "SI",
+    "img": "https://flagpedia.net/data/flags/w702/si.png",
+    "name": "Slovenia"
+  },
+  {
+    "flag": "SK",
+    "img": "https://flagpedia.net/data/flags/w702/sk.png",
+    "name": "Slowakia"
+  },
+  {
+    "flag": "SB",
+    "img": "https://flagpedia.net/data/flags/w702/sb.png",
+    "name": "Solomon"
+  },
+  {
+    "flag": "SO",
+    "img": "https://flagpedia.net/data/flags/w702/so.png",
+    "name": "Somalia"
+  },
+  {
+    "flag": "ES",
+    "img": "https://flagpedia.net/data/flags/w702/es.png",
+    "name": "Spanyol"
+  },
+  {
+    "flag": "LK",
+    "img": "https://flagpedia.net/data/flags/w702/lk.png",
+    "name": "Sri Lanka"
+  },
+  {
+    "flag": "SD",
+    "img": "https://flagpedia.net/data/flags/w702/sd.png",
+    "name": "Sudan"
+  },
+  {
+    "flag": "SY",
+    "img": "https://flagpedia.net/data/flags/w702/sy.png",
+    "name": "Suriah"
+  },
+  {
+    "flag": "SR",
+    "img": "https://flagpedia.net/data/flags/w702/sr.png",
+    "name": "Suriname"
+  },
+  {
+    "flag": "SJ",
+    "img": "https://flagpedia.net/data/flags/w702/sj.png",
+    "name": "Svalbard dan Jan Mayen"
+  },
+  {
+    "flag": "SE",
+    "img": "https://flagpedia.net/data/flags/w702/se.png",
+    "name": "Swedia"
+  },
+  {
+    "flag": "CH",
+    "img": "https://flagpedia.net/data/flags/w702/ch.png",
+    "name": "Swiss"
+  },
+  {
+    "flag": "TW",
+    "img": "https://flagpedia.net/data/flags/w702/tw.png",
+    "name": "Taiwan"
+  },
+  {
+    "flag": "TJ",
+    "img": "https://flagpedia.net/data/flags/w702/tj.png",
+    "name": "Tajikistan"
+  },
+  {
+    "flag": "CV",
+    "img": "https://flagpedia.net/data/flags/w702/cv.png",
+    "name": "Tanjung Verde"
+  },
+  {
+    "flag": "TZ",
+    "img": "https://flagpedia.net/data/flags/w702/tz.png",
+    "name": "Tanzania"
+  },
+  {
+    "flag": "TH",
+    "img": "https://flagpedia.net/data/flags/w702/th.png",
+    "name": "Thailand"
+  },
+  {
+    "flag": "TL",
+    "img": "https://flagpedia.net/data/flags/w702/tl.png",
+    "name": "Timor Leste"
+  },
+  {
+    "flag": "CN",
+    "img": "https://flagpedia.net/data/flags/w702/cn.png",
+    "name": "Tiongkok"
+  },
+  {
+    "flag": "TG",
+    "img": "https://flagpedia.net/data/flags/w702/tg.png",
+    "name": "Togo"
+  },
+  {
+    "flag": "TK",
+    "img": "https://flagpedia.net/data/flags/w702/tk.png",
+    "name": "Tokelau"
+  },
+  {
+    "flag": "TO",
+    "img": "https://flagpedia.net/data/flags/w702/to.png",
+    "name": "Tonga"
+  },
+  {
+    "flag": "TT",
+    "img": "https://flagpedia.net/data/flags/w702/tt.png",
+    "name": "Trinidad dan Tobago"
+  },
+  {
+    "flag": "TN",
+    "img": "https://flagpedia.net/data/flags/w702/tn.png",
+    "name": "Tunisia"
+  },
+  {
+    "flag": "TR",
+    "img": "https://flagpedia.net/data/flags/w702/tr.png",
+    "name": "Turki"
+  },
+  {
+    "flag": "TM",
+    "img": "https://flagpedia.net/data/flags/w702/tm.png",
+    "name": "Turkmenistan"
+  },
+  {
+    "flag": "TC",
+    "img": "https://flagpedia.net/data/flags/w702/tc.png",
+    "name": "Turks dan Caicos"
+  },
+  {
+    "flag": "TV",
+    "img": "https://flagpedia.net/data/flags/w702/tv.png",
+    "name": "Tuvalu"
+  },
+  {
+    "flag": "UG",
+    "img": "https://flagpedia.net/data/flags/w702/ug.png",
+    "name": "Uganda"
+  },
+  {
+    "flag": "UA",
+    "img": "https://flagpedia.net/data/flags/w702/ua.png",
+    "name": "Ukraina"
+  },
+  {
+    "flag": "AE",
+    "img": "https://flagpedia.net/data/flags/w702/ae.png",
+    "name": "Uni Emirat Arab"
+  },
+  {
+    "flag": "UY",
+    "img": "https://flagpedia.net/data/flags/w702/uy.png",
+    "name": "Uruguay"
+  },
+  {
+    "flag": "UZ",
+    "img": "https://flagpedia.net/data/flags/w702/uz.png",
+    "name": "Uzbekistan"
+  },
+  {
+    "flag": "VU",
+    "img": "https://flagpedia.net/data/flags/w702/vu.png",
+    "name": "Vanuatu"
+  },
+  {
+    "flag": "VA",
+    "img": "https://flagpedia.net/data/flags/w702/va.png",
+    "name": "Vatikan"
+  },
+  {
+    "flag": "VE",
+    "img": "https://flagpedia.net/data/flags/w702/ve.png",
+    "name": "Venezuela"
+  },
+  {
+    "flag": "VN",
+    "img": "https://flagpedia.net/data/flags/w702/vn.png",
+    "name": "Vietnam"
+  },
+  {
+    "flag": "VI",
+    "img": "https://flagpedia.net/data/flags/w702/vi.png",
+    "name": "Virgin Amerika Serikat"
+  },
+  {
+    "flag": "VG",
+    "img": "https://flagpedia.net/data/flags/w702/vg.png",
+    "name": "Virgin Britania Raya"
+  },
+  {
+    "flag": "WF",
+    "img": "https://flagpedia.net/data/flags/w702/wf.png",
+    "name": "Wallis dan Futuna"
+  },
+  {
+    "flag": "YE",
+    "img": "https://flagpedia.net/data/flags/w702/ye.png",
+    "name": "Yaman"
+  },
+  {
+    "flag": "JO",
+    "img": "https://flagpedia.net/data/flags/w702/jo.png",
+    "name": "Yordania"
+  },
+  {
+    "flag": "GR",
+    "img": "https://flagpedia.net/data/flags/w702gr.png",
+    "name": "Yunani"
+  },
+  {
+    "flag": "ZM",
+    "img": "https://flagpedia.net/data/flags/w702/zm.png",
+    "name": "Zambia"
+  },
+  {
+    "flag": "ZW",
+    "img": "https://flagpedia.net/data/flags/w702/zw.png",
+    "name": "Zimbabwe"
+  }
+]
